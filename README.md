@@ -1,3 +1,7 @@
+![image](https://github.com/corinachistol/react-steps/assets/115491975/f3219bb3-73cc-4234-98bc-99d2700f2bbd)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
